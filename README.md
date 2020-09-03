@@ -1,6 +1,6 @@
 # Open Source Cell_Phone_Selector
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Cell__Phone__Selector-blue)
-[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Cell_Phone_Selector)](https://github.com/GabrielFSSantos/Cell_Phone_Selector/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Cell_Phone_Selector)](https://github.com/GabrielFSSantos/Cell_Phone_Selector/blob/master/LICENSE)
 
 > :iphone:  Cell_Phone_Selector é um programa simples voltado a economia e custo benefício na hora da escolha de um smartphone. O usuário escolhe as suas preferências de configurações de um celular e o programa lhe retorna as 3 melhores opções que o atendem segundo os requisitos. <br>
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
@@ -20,7 +20,7 @@
 * [StackEdit] - Excelente editor de Markdown online.
 
 ## License
-[MIT License](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) ©
+[MIT License](https://github.com/GabrielFSSantos/Cell_Phone_Selector/blob/master/LICENSE)
 
 
 
